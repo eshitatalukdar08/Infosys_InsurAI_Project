@@ -1,0 +1,15 @@
+[submodule "InsurAI-springboot-backend"]
+	path = InsurAI-springboot-backend
+	url = https://github.com/eshitatalukdar08/InsurAI-springboot-backend.git
+[submodule "InsurAI_Testing"]
+	path = InsurAI_Testing
+	url = https://github.com/eshitatalukdar08/InsurAI_Testing.git
+[submodule "react-learning"]
+	path = react-learning
+	url = https://github.com/eshitatalukdar08/react-learning.git
+[submodule "InsurAI-documents"]
+	path = InsurAI-documents
+	url = https://github.com/eshitatalukdar08/InsurAI-documents.git
+[submodule "JavaBasicPrograms"]
+	path = JavaBasicPrograms
+	url = https://github.com/eshitatalukdar08/JavaBasicPrograms.git
