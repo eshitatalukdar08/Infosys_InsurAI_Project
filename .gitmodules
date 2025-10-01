@@ -13,3 +13,6 @@
 [submodule "JavaBasicPrograms"]
 	path = JavaBasicPrograms
 	url = https://github.com/eshitatalukdar08/JavaBasicPrograms.git
+[submodule "MILESTONE_3/M3"]
+	path = MILESTONE_3/M3
+	url = https://github.com/eshitatalukdar08/M3.git
