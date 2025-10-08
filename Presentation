@@ -1,0 +1,26 @@
+# InsurAI – Automating Policy Management Using AI
+
+This repository contains the presentation for **InsurAI**, a web-based insurance management system that automates policy operations, claim processing, and analytics using **AI integration**.
+
+## Overview
+InsurAI simplifies insurance policy management by providing:
+- Secure **JWT authentication** and **role-based access** (User & Admin)
+- **AI chatbot** (Gemini API) for instant support  
+- **Dashboard analytics** for users and admins  
+- **Policy, claim, and user management** modules  
+- **Multilingual support** – English, Hindi, Bengali
+
+## Tech Stack
+**Frontend:** React, Tailwind CSS  
+**Backend:** Spring Boot  
+**Database:** MySQL  
+**Authentication:** JWT  
+**AI Integration:** Gemini API  
+
+## About This Repo
+- Contains the **InsurAI Presentation (PPTX)** file  
+- Includes screenshots and visuals used in the slides  
+
+## Acknowledgment
+Developed by **Eshita Talukdar**  
+_InsurAI: Automating insurance with intelligence and efficiency._
