@@ -16,3 +16,9 @@
 [submodule "MILESTONE_3/M3"]
 	path = MILESTONE_3/M3
 	url = https://github.com/eshitatalukdar08/M3.git
+[submodule "Milestone4_Backend"]
+	path = Milestone4_Backend
+	url = https://github.com/eshitatalukdar08/BACKEND.git
+[submodule "Milestone4_Frontend"]
+	path = Milestone4_Frontend
+	url = https://github.com/eshitatalukdar08/FRONTEND.git
